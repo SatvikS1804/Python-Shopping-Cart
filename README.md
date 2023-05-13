@@ -23,8 +23,16 @@ All the details of the prducts are stored in the table product in the database t
     <br>
     <img src="images/3.PNG">
     <br>
-    Contents In the table product and modifying the cost of the product.
+    Contents In the table product after modifying the cost of the product.
     <br>
     <img src="images/after 3.png">
     <br>
+  </li>
+  <li>Delete Product
+    <br>
+    <img src="images/4.PNG">
+    <br>
+    Contents In the table product after deleting a product.
+    <br>
+    <img src="images/">
   </li>
