@@ -12,7 +12,7 @@ This consists of 2 options one for the admin and one for the user.
 <br>
 All the details of the prducts are stored in the table product in the database test. 
 <ul>
-  <li>Add Products
+  <li><h3>Add Products</h3>
     <br>
     <img src="images/2.png">
     <br>
@@ -21,7 +21,7 @@ All the details of the prducts are stored in the table product in the database t
     <img src="images/after 2.png">
     <br>
   </li>
-  <li>Modify Cost
+  <li><h3>Modify Cost</h3>
     <br>
     <img src="images/3.PNG">
     <br>
@@ -30,7 +30,7 @@ All the details of the prducts are stored in the table product in the database t
     <img src="images/after 3.png">
     <br>
   </li>
-  <li>Delete Product
+  <li><h3>Delete Product</h3>
     <br>
     <img src="images/4.PNG">
     <br>
@@ -39,7 +39,7 @@ All the details of the prducts are stored in the table product in the database t
     <img src="images/after 5.png">
     <br>
   </li>
-  <li>List All of the products
+  <li><h3>List All of the products</h3>
     <br>
     <img src="images/5.PNG">
     <br>
@@ -47,7 +47,8 @@ All the details of the prducts are stored in the table product in the database t
   </li>
    <li><h3>User:</h3>
      The user can buy, analyse,and search for top product based on speach recognition.
-     <li>Buy product
+     <li><h3>Buy product</h3>
+       <br>
        All the products available are listed to the user and then the product which is bought by the user is stored in the table tracker with the date and time at which it was bought.
        <br>
        <img src="images/6.png">
@@ -57,7 +58,7 @@ All the details of the prducts are stored in the table product in the database t
        <img src="images/after 6.png">
        <br>
   </li>
-  <li>Analysis
+  <li><h3>Analysis</h3>
     This gives us a plot of number of products brought from each category.
     <br>
     <img src="images/7.PNG">
@@ -67,9 +68,10 @@ All the details of the prducts are stored in the table product in the database t
     <img src="images/7 plot.png">
     <br>
   </li>
-  <li>Interactive Mode
-    This queriest the top products based on speech recognition.
-    <h2>Requirements for speech recognition</h2>
+  <li><h3>Interactive Mode</h3>
+    This queries the top products based on speech recognition.
+    <h4>Requirements for speech recognition</h4>
+    
         
   </li>
   </li>
