@@ -16,6 +16,7 @@ All the details of the prducts are stored in the table product in the database t
     <br>
     <img src="images/2.png">
     <br>
+    <br>
     Contents In the table product and adding product.
     <br>
     <img src="images/after 2.png">
@@ -25,6 +26,7 @@ All the details of the prducts are stored in the table product in the database t
     <br>
     <img src="images/3.PNG">
     <br>
+    <br>
     Contents In the table product after modifying the cost of the product.
     <br>
     <img src="images/after 3.png">
@@ -33,6 +35,7 @@ All the details of the prducts are stored in the table product in the database t
   <li><h3>Delete Product</h3>
     <br>
     <img src="images/4.PNG">
+    <br>
     <br>
     Contents In the table product after deleting a product.
     <br>
@@ -52,6 +55,7 @@ All the details of the prducts are stored in the table product in the database t
        All the products available are listed to the user and then the product which is bought by the user is stored in the table tracker with the date and time at which it was bought.
        <br>
        <img src="images/6.png">
+       <br>
        <br>
        Content in the table tracker after buying a product.
        <br>
