@@ -15,3 +15,6 @@ All the details of the prducts are stored in the table product in the database t
     Contents In the table product and adding product.
     <img src="images/after 2.png">
   </li>
+  <li>Modify Cost
+    <img src="images/3.PNG">
+  </li>
