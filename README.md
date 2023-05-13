@@ -6,7 +6,9 @@ This consists of 2 options one for the admin and one for the user.
 <br>
 <img src="images/1.png">
 <br>
-The admin can add items,modify the cost, delete and product and list all the products which is stored in the database.
+<ul>
+  <li><h3>Add Products:</h3>
+    The admin can add items,modify the cost, delete and product and list all the products which is stored in the database.
 <br>
 All the details of the prducts are stored in the table product in the database test. 
 <ul>
@@ -34,5 +36,27 @@ All the details of the prducts are stored in the table product in the database t
     <br>
     Contents In the table product after deleting a product.
     <br>
-    <img src="images/">
+    <img src="images/after 5.png">
+    <br>
   </li>
+  <li>List All of the products
+    <br>
+    <img src="images/5.png">
+    <br>
+  </li>
+  </li>
+   <li><h3>User:</h3>
+     The user can buy, analyse,and search for top product based on speach recognition.
+     <li>Buy product
+       All the products available are listed to the user and then the product which is bought by the user is stored in the table tracker.
+       <br>
+       <img src="images/6.png">
+       <br>
+       Content in the table tracker after buying a product.
+       <br>
+       <img src="images/after 6.png">
+       <br>
+  </li>
+  </li>
+ 
+
