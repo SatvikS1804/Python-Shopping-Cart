@@ -70,9 +70,9 @@ All the details of the prducts are stored in the table product in the database t
   </li>
   <li><h3>Interactive Mode</h3>
     This queries the top products based on speech recognition.
-    <h4>Requirements for speech recognition</h4>
-    
-        
+    <br>
+    <img src="images/8.PNG">
+    <br>
   </li>
   </li>
  
