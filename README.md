@@ -41,14 +41,14 @@ All the details of the prducts are stored in the table product in the database t
   </li>
   <li>List All of the products
     <br>
-    <img src="images/5.png">
+    <img src="images/5.PNG">
     <br>
   </li>
   </li>
    <li><h3>User:</h3>
      The user can buy, analyse,and search for top product based on speach recognition.
      <li>Buy product
-       All the products available are listed to the user and then the product which is bought by the user is stored in the table tracker.
+       All the products available are listed to the user and then the product which is bought by the user is stored in the table tracker with the date and time at which it was bought.
        <br>
        <img src="images/6.png">
        <br>
@@ -56,6 +56,21 @@ All the details of the prducts are stored in the table product in the database t
        <br>
        <img src="images/after 6.png">
        <br>
+  </li>
+  <li>Analysis
+    This gives us a plot of number of products brought from each category.
+    <br>
+    <img src="images/7.PNG">
+    <br>
+      <h4>Plot</h4>
+    <br>
+    <img src="images/7 plot.png">
+    <br>
+  </li>
+  <li>Interactive Mode
+    This queriest the top products based on speech recognition.
+    <h2>Requirements for speech recognition</h2>
+        
   </li>
   </li>
  
