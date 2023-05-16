@@ -2,7 +2,7 @@
 A simple console based shopping cart implemented using python and MySql.
 <br>
 <h2>Project Description</h2>
-It consists options for the admin and for the user.
+It consists of options for the admin and for the user.
 <br>
 <img src="images/1.png">
 <br>
@@ -49,7 +49,7 @@ All the details of the products are stored in the table product in the database 
   </li>
   </li>
    <li><h3>User:</h3>
-     The user can buy, analyse,and search for top product based on speech recognition.
+     The user can buy, analyze,and search for top product based on speech recognition.
      <li><h3>Buy product</h3>
        <br>
        All the products available are listed to the user and then the product which is bought by the user is stored in the table tracker with the date and time at which it was bought.
