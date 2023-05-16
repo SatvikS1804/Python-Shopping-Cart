@@ -8,9 +8,9 @@ It consists options for the admin and for the user.
 <br>
 <ul>
   <li><h3>Add Products:</h3>
-    The admin can add items,modify the cost, delete and product and list all the products which is stored in the database.
+    The admin can add items,modify the cost of the product, delete and product and list all the products which is stored in the database.
 <br>
-All the details of the prducts are stored in the table product in the database test. 
+All the details of the products are stored in the table product in the database test. 
 <ul>
   <li><h3>Add Products</h3>
     <br>
