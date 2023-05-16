@@ -49,7 +49,7 @@ All the details of the products are stored in the table product in the database 
   </li>
   </li>
    <li><h3>User:</h3>
-     The user can buy, analyse,and search for top product based on speach recognition.
+     The user can buy, analyse,and search for top product based on speech recognition.
      <li><h3>Buy product</h3>
        <br>
        All the products available are listed to the user and then the product which is bought by the user is stored in the table tracker with the date and time at which it was bought.
